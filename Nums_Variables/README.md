@@ -48,7 +48,7 @@ years_str = '10'
 
 At any point in our code, we can change the value of a particular variable by simply reassigning it.
 
-Change the value of *years* to the number 20. 
+Change the value of *years* to the number 20, on line 3. 
 
 {% next %}
 Your code should now look like this:
@@ -84,7 +84,7 @@ Your output should look something like this:
 ![Desktop](Nums_Variables/Output1.png)
 
 Similarly, I can format my code so that the output is more clearly defined.
-Type the following into your editor. The output has been included as well. Ensure that it matches. 
+Type the following into your editor, leaving at least two blank lines between the code above and the one below. The output has been included as well. Ensure that it matches. 
 
 ![Desktop](Nums_Variables/Output2.png)
 
@@ -94,7 +94,7 @@ Take a moment to look over the format of the print statements.
 
 **A comma will automatically insert a space in the output.**
 
-Also notice that the newline command at the end of each print statement creates a blank line between each section of output. This makes for easier to read *output*.
+Also notice that the newline command at the end of each print statement creates a blank line between each section of *output*. This makes for easier to read output.
 
 {% next %}
 
@@ -105,8 +105,13 @@ We can assign the variable like we did above or we can take input from the user.
 
 **It is important to remember that input will be stored as a _string_**.  
 
-******take a look at the following, two strings, print them out) *********
-Type the following into your editor:
+Examine the output of the following code:
+
+![Desktop](Nums_Variables/Output3.png)
+
+The two strings are output to the screen. 
+
+Now, type the following into your editor:
 
 ```python3
 num1 = input("Enter a number: ")
@@ -127,8 +132,13 @@ In order to perform a mathematical operation with the variables above, you will 
 
 Edit your code so that it matches the one below:
 
+```python
+num1 = int(input("Enter a number: ")
+num2 = int(input("Enter a number: ")
+print(num1 + num2)
+```
 
-Did you get 5 as your output? 
+Did you get 5 as your output? What changed?
 
 It is possible to convert from an integer to a string as well by doing the following:
 ```str(9)```
