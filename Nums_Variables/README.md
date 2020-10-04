@@ -9,7 +9,7 @@ Remember, a variable is assigned a value with the equal (=) sign.
 ## Variable Assignment: Numbers
 It can be assigned a number:
 
-Assign the **integer** 10 to a variable named **decade**.
+Assign the **integer** 10 to a variable named **years**.
 
 {% spoiler "Hint" %}
 ```python
@@ -28,7 +28,7 @@ years = 10
 ## Variable Assignment: Strings
 It can also be assigned a string, which are identified with **quotation marks**. 
 
-Assign the ***string*** 10 to a variable named **decade_str**.
+Assign the ***string*** 10 to a variable named **years_str**.
 
 {% spoiler "Hint" %}
 Did you remember the quotation marks?
@@ -57,11 +57,14 @@ years_str = '10'
 years = 20
 ```
 
-Edit your code, as needed, so that it prints the value of each variable and it's data type (string, integer, or float).  
+Edit your code, as needed, so that it prints the value of each variable and it's data type (string, integer, or float) to confirm that *years* is an integer and *years_str* is indeed a string.  
 
 {% spoiler "Hint" %}
 In order to print the datatype to the screen, you should type **print(type(*name_of_variable*))**.
 {% endspoiler %}
+
+
+You should have a code which is similar to the following:
 
 ## Variable Assignment: Input
 We can assign the variable like we did above or we can take input from the user.
