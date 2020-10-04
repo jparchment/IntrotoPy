@@ -81,7 +81,7 @@ print(years)
 
 Your output should look something like this:
 
-
+![Desktop] (https://raw.githubusercontent.com/jparchment/IntrotoPy/master/Nums_Variables/output1.PNG)
 
 ## Variable Assignment: Input
 We can assign the variable like we did above or we can take input from the user.
