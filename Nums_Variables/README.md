@@ -174,5 +174,5 @@ We can convert from floats, to ints, to strings.
 
 **And vice versa, as needed.**
 
-
-
+{% next %}
+Please go to edhesive.com to complete section 1.7 Code Practice 1 and 2. 
