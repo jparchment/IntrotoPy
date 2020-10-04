@@ -2,11 +2,10 @@
 
 Start a new file and name it **nums_variables.py**.
 
-{% video https://youtu.be/AH9DkpjFe28 %}
-<video width="800" height="600" controls autoplay>
+<video width="800" height="600">
+  < controls autoplay>
   <source src="Nums_Variables/Nums_Variables.mp4" type="video/mp4">
   <source src="Nums_Variables.ogg" type="video/ogg">
-  Your browser does not support the video tag.
 </video>
 
 Remember, a variable is assigned a value with the equal (=) sign. 
