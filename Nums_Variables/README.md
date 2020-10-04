@@ -3,7 +3,7 @@
 Start a new file and name it **nums_variables.py**.
 
 {% video https://youtu.be/AH9DkpjFe28 %}
-
+![Desktop] (
 
 Remember, a variable is assigned a value with the equal (=) sign. 
 
