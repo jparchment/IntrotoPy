@@ -8,7 +8,7 @@ def exists():
 @check50.check(exists)
 def compiles():
     """no syntax errors in num_variables.py."""
-    check50.run("python -m py_compile num_variables.py").exit(0)
+    check50.run("python num_variables.py").exit(0)
     
 #@check50.check(compiles)
 #def prints_variables():
