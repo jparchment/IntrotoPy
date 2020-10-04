@@ -1,7 +1,9 @@
 # Variables and Data Types
 
 Start a new file and name it **nums_variables.py**.
- {% video https://youtu.be/AH9DkpjFe28 %}
+ {% <video width="320" height="240" controls>
+  <source src="video.mov" type="video/mp4">
+</video> %}
 
 Remember, a variable is assigned a value with the equal (=) sign. 
 
