@@ -4,9 +4,10 @@ Start a new file and name it **nums_variables.py**.
 
 {% video https://youtu.be/AH9DkpjFe28 %}
 
+## Variable Assignment: Numbers
+
 Remember, a variable is assigned a value with the equal (=) sign. 
 
-## Variable Assignment: Numbers
 It can be assigned a number:
 
 Assign the **integer** 10 to a variable named **years**.
@@ -77,6 +78,10 @@ print(type(years_str))
 years = 20
 print(years)
 ```
+
+Your output should look something like this:
+
+
 
 ## Variable Assignment: Input
 We can assign the variable like we did above or we can take input from the user.
