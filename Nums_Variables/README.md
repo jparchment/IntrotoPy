@@ -3,9 +3,8 @@
 Start a new file and name it **nums_variables.py**.
 
 {% video https://youtu.be/AH9DkpjFe28 %}
-<video width="320" height="240" controls>
-  <source src="https://github.com/jparchment/IntrotoPy/blob/master/Nums_Variables/Nums%20%26%20Variables.mp4" type="video/mp4">
-</video>
+![Desktop](https://raw.githubusercontent.com/jparchment/IntrotoPy/master/Nums_Variables/Nums_Variables.mp4)
+
 Remember, a variable is assigned a value with the equal (=) sign. 
 
 It can be assigned a number:
