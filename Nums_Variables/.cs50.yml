@@ -1,10 +1,5 @@
 lab50: true
-check 50:
-  checks:
-    nums variables:
-      - run: python3 nums_variables.py
-      stdout: 10, 10, 20
-      exit: 0
+
       
 
 
