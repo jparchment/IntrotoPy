@@ -65,7 +65,6 @@ In order to print the datatype to the screen, you should type **print(type(*name
 
 {% check "Does your compile?" %} {% if compiles.passed %} Yes! Nicely done! {% else %} {{ compiles }} {% endif %} {% endcheck %}
 
-{% check "Does your code print ?????" %} {{ nope }} {% endcheck %}
 
 You should have a code which is similar to the following:
 
