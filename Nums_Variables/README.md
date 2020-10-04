@@ -4,8 +4,8 @@ Start a new file and name it **nums_variables.py**.
 
 {% video https://youtu.be/AH9DkpjFe28 %}
 <video width="320" height="240" controls autoplay>
-  <source src="Nums_Variables/Nums & Variables.mp4" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
+  <source src="Nums_Variables/Nums_Variables.mp4" type="video/mp4">
+  <source src="Nums_Variables.ogg" type="video/ogg">
   Your browser does not support the video tag.
 </video>
 
