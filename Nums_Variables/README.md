@@ -120,7 +120,7 @@ print(num1 + num2)
 ```
 Now, run your program. Define the first input (num1) as 2 and the second input (num2) as 3.
 
-Is the output what you expected? 
+Is the output ```23``` what you expected? 
 
 Maybe you were expecting the result of the print statement to be the result of 2 + 3.
 
