@@ -4,6 +4,10 @@ Start a new file and name it **nums_variables.py**.
 
 {% video https://youtu.be/AH9DkpjFe28 %}
 
+def foo():
+  if not bar:
+      return True
+
 Remember, a variable is assigned a value with the equal (=) sign. 
 
 It can be assigned a number:
