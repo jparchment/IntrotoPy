@@ -4,9 +4,6 @@ Start a new file and name it **nums_variables.py**.
 
 {% video https://youtu.be/AH9DkpjFe28 %}
 
-def foo():
-  if not bar:
-      return True
 
 Remember, a variable is assigned a value with the equal (=) sign. 
 
@@ -15,7 +12,7 @@ It can be assigned a number:
 Assign the **integer** 10 to a variable named **decade**.
 
 {% spoiler "Hint" %}
-```
+```python
 _________ = 10
 ```
 {% endspoiler %}
@@ -24,7 +21,7 @@ _________ = 10
 
 You should have the following:
 
-```
+```python
 decade = 10
 ```
 
@@ -39,7 +36,8 @@ Did you remember the quotation marks?
 {% next %}
 You should have the following:
 
-```decade = 10
+```python
+decade = 10
 decade_str = '10'
 ```
 We can assign the variable directly, or we can take input from the user. 
