@@ -1,5 +1,9 @@
 # Variables and Data Types
 
+Start a new file and name it **nums_variables.py**.
+
+{% video https://youtu.be/AH9DkpjFe28 %}
+
 Remember, a variable is assigned a value with the equal (=) sign. 
 
 It can be assigned a number:
