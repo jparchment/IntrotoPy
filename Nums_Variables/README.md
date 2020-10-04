@@ -141,10 +141,36 @@ print(num1 + num2)
 
 Did you get 5 as your output? What changed?
 
-It is possible to convert from an integer to a string as well by doing the following:
-```str(9)```
+Take a look at this example:
 
-From a float to an int: ```int(9.0)```
+The ```str()``` function does the opposite - takes an integer and converts it to a string, so that we can combine it with other strings.
+
+Example:
+
+```python
+num1 = int(input ("Enter a number: "))
+num2 = int(input ("Enter a number: "))
+print("The answer is: " + num1 + num2)
+```
+What is the output of this code? 
+
+{% next %}
+You should have seen the error message 
+> TypeError: can only concatenate str (not "int") to str
+
+num1 and num2 are of type int but our print statement is trying to use concatenation to combine strings and integers.  We cannot do this with concatenation. 
+*Concatenation is when we use the plus (+) signs to join variables/strings in our print statement.
+
+**To correct this error, we can convert num1 and num2 to strings.
+
+```python
+num1 = int(input ("Enter a number: "))
+num2 = int(input ("Enter a number: "))
+print("The answer is: " + str(num1 + num2))
+```
+What changed? Does the code work now? 
+
+We can convert from floats, to ints, to strings.
 
 **And vice versa, as needed.**
 
