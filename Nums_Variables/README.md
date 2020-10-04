@@ -83,6 +83,11 @@ Your output should look something like this:
 
 ![Desktop](Nums_Variables/Output1.png)
 
+Similarly, I can format my code so that the output is more clearly defined.
+Type the following into your editor. The output has been included as well. Ensure that it matches. 
+
+![Desktop](Nums_Variables/Output2.png)
+
 ## Variable Assignment: Input
 We can assign the variable like we did above or we can take input from the user.
 
