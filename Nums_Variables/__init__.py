@@ -10,7 +10,7 @@ def compiles():
     """no syntax errors in num_variables.py."""
     check50.run("python -m py_compile num_variables.py").exit(0)
     
-@check50.check(compiles)
-def prints_variables():
-    """prints variables"""
-    check50.run("python nums_variables.py").stdout("print(years)", "print(years_str)", print("years"), "10", "10", "20").exit(0)    
+#@check50.check(compiles)
+#def prints_variables():
+#    """prints variables"""
+#   check50.run("python nums_variables.py").stdout("print(years)", "print(years_str)", print("years"), "10", "10", "20").exit(0)   
