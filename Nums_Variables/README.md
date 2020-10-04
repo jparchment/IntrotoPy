@@ -4,9 +4,13 @@ Remember, a variable is assigned a value with the equal (=) sign. It can be assi
 
 Assign the **integer** 10 to a variable named **decade**
 
-You should have the following:
+{% spoiler "Hint" %}
+```
+_________ = 10
+```
+{% endspoiler %}
 
-{% next %}
+You should have the following:
 
 ```
 decade = 10
