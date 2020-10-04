@@ -88,10 +88,51 @@ Type the following into your editor. The output has been included as well. Ensur
 
 ![Desktop](Nums_Variables/Output2.png)
 
+Take a moment to look over the format of the print statements.  
+
+**It is possible to print multiple items with one print statement.** Here, I have printed strings (*new value of years*, variables (*years*), and functions/commands (*type*, *newline*), each of which are separated by *commas*. 
+
+**A comma will automatically insert a space in the output.**
+
+Also notice that the newline command at the end of each print statement creates a blank line between each section of output. This makes for easier to read *output*.
+
+{% next %}
+
 ## Variable Assignment: Input
+Create a new python file and give it an appropriate name.
+
 We can assign the variable like we did above or we can take input from the user.
 
+**It is important to remember that input will be stored as a _string_**.  
+
+******take a look at the following, two strings, print them out) *********
 Type the following into your editor:
+
+```python3
+num1 = input("Enter a number: ")
+num2 = input("Enter a number: ")
+print(num1 + num2)
+```
+Now, run your program. Define the first input (num1) as 2 and the second input (num2) as 3.
+
+Is the output what you expected? 
+
+Maybe you were expecting the result of the print statement to be the result of 2 + 3.
+
+In fact, since input is stored as a string, the variables are stored as two strings: ```num1 = '2' and num2 = '3'```
+**You cannot do math with a string.**
+
+## Converting Between a String & a Number
+In order to perform a mathematical operation with the variables above, you will have to convert from a string to an integer.
+
+Edit your code so that it matches the one below:
+
+
+Did you get 5 as your output? 
+
+It is possible to convert from an integer to a string as well by doing the following:
+```str(9)```
+
 
 
 
