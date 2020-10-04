@@ -2,7 +2,7 @@
 
 Start a new file and name it **nums_variables.py**.
  {% <video width="320" height="240" controls>
-  <source src="video.mov" type="video/mp4">
+  <source src="Nums_Variables.mp4" type="video/mp4">
 </video> %}
 
 Remember, a variable is assigned a value with the equal (=) sign. 
