@@ -1,8 +1,10 @@
 # Variables and Data Types
 
-Remember, a variable is assigned a value with the equal (=) sign. It can be assigned a string or a number. 
+Remember, a variable is assigned a value with the equal (=) sign. 
 
-Assign the **integer** 10 to a variable named **decade**
+It can be assigned a number:
+
+Assign the **integer** 10 to a variable named **decade**.
 
 {% spoiler "Hint" %}
 ```
@@ -10,10 +12,26 @@ _________ = 10
 ```
 {% endspoiler %}
 
+{% next %}
+
 You should have the following:
 
 ```
 decade = 10
 ```
 
+It can also be assigned a string, which are identified with **quotation marks**. 
+
+Assign the ***string*** 10 to a variable named **decade_str**.
+
+{% spoiler "Hint" %}
+Did you remember the quotation marks?
+{% endspoiler %}
+
+{% next %}
+You should have the following:
+
+```decade = 10
+decade_str = '10'
+```
 We can assign the variable directly, or we can take input from the user. 
