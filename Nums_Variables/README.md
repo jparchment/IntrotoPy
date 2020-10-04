@@ -124,9 +124,10 @@ Is the output what you expected?
 
 Maybe you were expecting the result of the print statement to be the result of 2 + 3.
 
-In fact, since input is stored as a string, the variables are stored as two strings: ```num1 = '2' and num2 = '3'```
+In fact, since input is stored as a string, the variables are stored as two strings: ```num1 = '2' and num2 = '3'```.
 **You cannot do math with a string.**
 
+{% next %}
 ## Converting Between a String & a Number
 In order to perform a mathematical operation with the variables above, you will have to convert from a string to an integer.
 
@@ -143,6 +144,9 @@ Did you get 5 as your output? What changed?
 It is possible to convert from an integer to a string as well by doing the following:
 ```str(9)```
 
+From a float to an int: ```int(9.0)```
+
+**And vice versa, as needed.**
 
 
 
