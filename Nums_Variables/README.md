@@ -48,6 +48,15 @@ At any point in our code, we can change the value of a particular variable by si
 
 Change the value of *years* to the number 20. 
 
+{% next %}
+Your code should now look like this:
+
+```python
+years = 10
+years_str = '10'
+years = 20
+```
+
 Edit your code, as needed, so that it prints the value of each variable and it's data type (string, integer, or float).  
 
 {% spoiler "Hint" %}
