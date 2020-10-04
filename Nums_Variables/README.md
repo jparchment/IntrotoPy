@@ -2,8 +2,7 @@
 
 Start a new file and name it **nums_variables.py**.
 
-<video width="800" height="600">
-  < controls autoplay>
+<video width="600" height="400" controls>
   <source src="Nums_Variables/Nums_Variables.mp4" type="video/mp4">
   <source src="Nums_Variables.ogg" type="video/ogg">
 </video>
