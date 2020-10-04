@@ -25,6 +25,7 @@ Note: The syntax highlighting (the colors) might not be the same.
 ```python
 years = 10
 ```
+
 ## Variable Assignment: Strings
 It can also be assigned a string, which are identified with **quotation marks**. 
 
