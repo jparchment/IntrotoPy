@@ -4,14 +4,6 @@ Start a new file and name it **nums_variables.py**.
 
 {% video https://youtu.be/AH9DkpjFe28 %}
 
-{% assign foo = "bar" %}
-
-{{ foo }}
-
-{{ results }}
-
-{{ results.exists }}
-
 Remember, a variable is assigned a value with the equal (=) sign. 
 
 ## Variable Assignment: Numbers
