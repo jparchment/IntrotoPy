@@ -63,10 +63,19 @@ Edit your code, as needed, so that it prints the value of each variable and it's
 In order to print the datatype to the screen, you should type **print(type(*name_of_variable*))**.
 {% endspoiler %}
 
-{% check "Submit" %} {% if compiles.passed %} Yes! Nicely done! {% else %} {{ compiles }} {% endif %} {% endcheck %}
-
-
 You should have a code which is similar to the following:
+```python
+years = 10
+print(years)
+print(type(years))
+
+years_str = '10'
+print(years_str)
+print(type(years_str))
+
+years = 20
+print(years)
+```
 
 ## Variable Assignment: Input
 We can assign the variable like we did above or we can take input from the user.
