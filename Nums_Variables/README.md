@@ -63,7 +63,7 @@ Edit your code, as needed, so that it prints the value of each variable and it's
 In order to print the datatype to the screen, you should type **print(type(*name_of_variable*))**.
 {% endspoiler %}
 
-{% check "Does your compile?" %} {% if compiles.passed %} Yes! Nicely done! {% else %} {{ compiles }} {% endif %} {% endcheck %}
+{% check %} {% if compiles.passed %} Yes! Nicely done! {% else %} {{ compiles }} {% endif %} {% endcheck %}
 
 
 You should have a code which is similar to the following:
