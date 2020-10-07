@@ -1,6 +1,6 @@
 # Directions
 
-# Happy Coding:bangbang:
+### Happy Coding:bangbang:
 
 :grin:
 ## Step 1
