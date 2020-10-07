@@ -29,10 +29,10 @@ tttt
 
 # Good Luck!
 {% spoiler "Hints" %}
-- Some common errors are: 
--spelling
--improper variable name (does not follow the rules)
--capitalization of variables
+Some common errors are: 
+    * spelling
+    * improper variable name (does not follow the rules)
+    * capitalization of variables
     
 {% endspoiler %}
     
