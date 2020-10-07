@@ -1,6 +1,6 @@
 # Directions
 
-# Happy Coding :clock730:
+# Happy Coding:bangbang::simple_smile:
 
 ## Step 1
 Please run the code titled 'errorfix1.py' and debug (correct any and all errors).
