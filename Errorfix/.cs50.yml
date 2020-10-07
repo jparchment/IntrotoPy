@@ -1,3 +1,1 @@
-lab50: 
-  files:
-    - !include errorfix1.py
+lab50: true
