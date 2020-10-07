@@ -33,9 +33,10 @@ Once you are finished with your comments, copy and paste the working program int
 ## Step 4
 Answer the question which I've included at the end of the program.
 
-{% next %}
+# Good Luck! 
 
-# Good Luck! :simple_smile:
+:simple_smile:
+
 {% spoiler "Hints" %}
 Some common errors are
 spelling-------
