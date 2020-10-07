@@ -10,10 +10,12 @@ Once code is in proper working condition, place a **comment** above each line th
 Once you are finished with your comments, copy and paste the working program into CS50 IDE and save it as **errorfix1.py**
 
 # Good Luck!
-{% Hints %}
+{% spoiler "Hints" %}
 - Some common errors are: 
 
     -spelling
     -improper variable name (does not follow the rules)
     -capitalization of variables
+    
+{% endspoiler %}
     
