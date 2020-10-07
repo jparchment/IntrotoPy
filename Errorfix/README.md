@@ -12,10 +12,9 @@ Once you are finished with your comments, copy and paste the working program int
 # Good Luck!
 {% spoiler "Hints" %}
 - Some common errors are: 
-
-    -spelling
-    -improper variable name (does not follow the rules)
-    -capitalization of variables
+-spelling
+-improper variable name (does not follow the rules)
+-capitalization of variables
     
 {% endspoiler %}
     
