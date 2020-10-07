@@ -1,8 +1,7 @@
 # Directions
 
-### Happy Coding:bangbang:
+### Happy Coding:bangbang::grin:
 
-:grin:
 ## Step 1
 Please run the code titled 'errorfix1.py' and debug (correct any and all errors).
 
