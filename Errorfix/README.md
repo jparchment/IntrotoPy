@@ -29,10 +29,10 @@ tttt
 
 # Good Luck!
 {% spoiler "Hints" %}
-Some common errors are: 
-    * spelling
-    * improper variable name (does not follow the rules)
-    * capitalization of variables
+Some common errors are...
+spelling...
+improper variable name (does not follow the rules)...
+inconsistent variable names (for example, capitalized in one line of the code, but not in another line...Word is NOT equal to word.)...
     
 {% endspoiler %}
     
