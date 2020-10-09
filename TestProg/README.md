@@ -1,1 +1,1 @@
-check50 jparchment/IntrotoPy/master/TestProg/hello --local
+#check50 jparchment/IntrotoPy/master/TestProg/hello --local
