@@ -6,3 +6,4 @@ check50:
       - run: hello.py
       stdout: Hello World
       exit: 0
+      
