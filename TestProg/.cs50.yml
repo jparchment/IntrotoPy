@@ -1,5 +1,5 @@
 check50:
-  checks:
+  checks: hello.py
     hello world:
       - run: python3 hello.py # run python3 hello.py
         stdout: Hello World! # expect Hello, world! in stdout
