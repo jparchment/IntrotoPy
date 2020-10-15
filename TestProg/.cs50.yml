@@ -1,5 +1,7 @@
 check50:
-  checks: hello.py
+  files:
+  - !include "hello.py"
+  checks:
     hello world:
       - run: python3 hello.py # run python3 hello.py
         stdout: Hello World! # expect Hello, world! in stdout
