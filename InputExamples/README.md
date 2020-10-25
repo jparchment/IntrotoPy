@@ -1,7 +1,7 @@
 # Input Examples
  The following files will give you the chance to examine different examples using input.
  
- ***Please open them in consecutive order.***
+ ***Please open them in consecutive order.
  
  ## Example 1
  Filename: input_ex1.py
