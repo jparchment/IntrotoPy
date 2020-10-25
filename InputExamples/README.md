@@ -35,5 +35,5 @@
  Write your own program which accepts three **decimal** numbers (as input) and outputs their sum. 
  **Your file should include comments, similar to the examples 2 and 3 which I have shown here.
  Copy/paste your code into ide.cs50.io and name your file 'input_ex4.py'**
-
+# I will check your code for accuracy, comments, and that it works!
  
