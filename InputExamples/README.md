@@ -4,6 +4,7 @@
  ***Please open them in consecutive order.***
  
  ## Example 1 
+ 
  Filename: input_ex1.py
  
  Asks the user to input the year they were born and the current year in order to calculate their age.
@@ -15,9 +16,7 @@
  
  Asks the user to input two different numbers in order to perform mathematical operations.
  
- {% next %}
- 
- **Please complete the code :smile:**
+ **Please complete the code for example 2. :smile:**
  
  {% next %}
  
