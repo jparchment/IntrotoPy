@@ -6,7 +6,7 @@ num2 = int(input("Number 2: "))
 # and prints the result
 
 print("Sum: ", num1 + num2)
-print("Difference: ", num 1 - num2)
+print("Difference: ", num1 - num2)
 print("Product: " # input your code here)
 
 # write your own code to calculate and print the quotient (match the format above)
