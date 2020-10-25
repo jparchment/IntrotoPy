@@ -25,7 +25,7 @@
  
  Asks the user to input an integer and prints the next three consecutive numbers.
  
- { % next %}
+ {% next %}
  
  ## Example 4
  Filename: input_ex4.py
