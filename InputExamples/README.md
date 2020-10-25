@@ -1,16 +1,16 @@
-# Input Examples #
+# Input Examples
  The following files will give you the chance to examine different examples using input.
  
- ***Please open them in consecutive order.
+ ***Please open them in consecutive order.***
  
- ## Example 1 ##
+ ## Example 1 
  Filename: input_ex1.py
  
  Asks the user to input the year they were born and the current year in order to calculate their age.
  
  {% next %}
  
- ## Example 2 ##
+ ## Example 2
  Filename: input_ex2.py
  
  Asks the user to input two different numbers in order to perform mathematical operations.
