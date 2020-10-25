@@ -16,7 +16,8 @@
  Asks the user to input two different numbers in order to perform mathematical operations.
  
  {% next %}
- **Please complete the code :smile:***
+ 
+ **Please complete the code :smile:**
  
  {% next %}
  
