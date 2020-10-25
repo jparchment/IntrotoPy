@@ -3,7 +3,7 @@
  
  ***Please open them in consecutive order.***
  
- ## Example 1 
+ # Example 1 
  
  Filename: input_ex1.py
  
@@ -11,7 +11,7 @@
  
  {% next %}
  
- ## Example 2
+ # Example 2
  Filename: input_ex2.py
  
  Asks the user to input two different numbers in order to perform mathematical operations.
@@ -20,14 +20,14 @@
  
  {% next %}
  
- ## Example 3
+ # Example 3
  Filename: input_ex3.py
  
  Asks the user to input an integer and prints the next three consecutive numbers.
  
  {% next %}
  
- ## Example 4
+ # Example 4
  Filename: input_ex4.py
  
  
