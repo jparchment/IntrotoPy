@@ -1,7 +1,6 @@
 import turtle
 
 turtle.bgcolor('black')
-turtle.delay(45)
 
 x = int(input('enter a number: '))
 if x <= 3:
@@ -85,9 +84,9 @@ if t >= 500:
 
 # -----------------------------------------------------------
 
-print('Your x value is: ", x)
-print('Your y value is: ", y)
-print('Your z value is: ", z)
-print('Your t value is: ", t)
+print('Your x value is: ', x)
+print('Your y value is: ', y)
+print('Your z value is: ', z)
+print('Your t value is: ', t)
 
 input()
