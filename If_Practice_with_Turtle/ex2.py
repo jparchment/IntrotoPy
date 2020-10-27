@@ -1,4 +1,4 @@
-x = float(input('Enter a number: ')
+x = float(input('Enter a number: '))
 if x != 3:
   z = input("What is your name? ")
   y = z + 3
