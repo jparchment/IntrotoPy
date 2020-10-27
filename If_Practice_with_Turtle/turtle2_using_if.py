@@ -9,7 +9,8 @@ if x <= 3:
 if x > 3:
     turtle.dot(200, 'chartreuse')
 # ------------------------------------------------
-
+# ------------------------------------------------
+#
 y = int(input('enter another number: '))
 turtle.delay(45)
 if y < 0:
@@ -34,24 +35,29 @@ z = float(input('Enter a decimal: '))
 turtle.delay(10)
 if z != 7.5:
     turtle.dot(200, 'red')
+    input()
     turtle.color('yellow')
     turtle.pensize(3)
     turtle.begin_fill()
     turtle.circle(180)
     turtle.end_fill()
+    input()
     turtle.begin_fill()
     turtle.color('green')
     turtle.circle(100)
     turtle.end_fill()
+    input()
     turtle.begin_fill()
     turtle.color('black')
     turtle.circle(80)
     turtle.end_fill()
+    input()
     turtle.dot(120, 'orange red')
+    input()
     turtle.dot(100, 'DarkGreen')
+    input()
     turtle.dot(75, 'dark turquoise')
 
-turtle.color('violet red')
 turtle.penup()
 turtle.goto(0,200)
 turtle.pendown()
@@ -65,7 +71,7 @@ if t <= 100:
     t = int(input('Please try again. Enter another number >>> '))
 
 if t < 200:
-    turtle.pencolor('black')
+    turtle.pencolor('violet red')
     turtle.write('That\'s all folks!', align = 'center', font=style)
 
 if t < 500:
