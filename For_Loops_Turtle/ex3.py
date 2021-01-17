@@ -11,7 +11,7 @@ turtle.shape('turtle')
 turtle.pensize(8)
 
 # sets the color to orange and the background to red
-turtle.color('orange')
+turtle.color('yellow')
 turtle.bgcolor('red')
 
 # draws zigzag
@@ -36,4 +36,5 @@ turtle.forward(length)
 turtle.right(angle)
 turtle.forward(length)
 
-input("Press 'Enter' to clear image.")
+input("\nPress 'Enter' to clear image.")
+
