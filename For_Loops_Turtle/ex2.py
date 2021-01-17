@@ -19,12 +19,12 @@ turtle.begin_fill()
 # WHAT NUMBER SHOULD BE INPUT FOR THE RANGE TO DRAW A SQUARE?
 # CORRECT ANY SYNTAX ERRORS BELOW
 
-for x in range(?)
-turtle.forward(100)
-turtle.right(90)
+for x in range(4):
+  turtle.forward(100)
+  turtle.right(90)
 
 # not part of the loop.
-print("Food for thought: Why doesn't this have to be part of the for loop? /U0001F914 /U0001F914 /U0001F914")
+print("Food for thought: Why doesn't this have to be part of the for loop? \U0001F914 \U0001F914 \U0001F914")
 turtle.end_fill()
 
-input('Hit /'Enter/' to clear image')
+input('Hit \'Enter\' to clear image')
