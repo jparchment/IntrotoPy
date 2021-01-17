@@ -36,3 +36,4 @@ turtle.forward(length)
 turtle.right(angle)
 turtle.forward(length)
 
+input()
