@@ -10,14 +10,18 @@ turtle.shape('circle')
 # try changing the pensize number 
 turtle.pensize(8)
 
-# sets the fill color to purple and the border to green
+# sets the pen color to blue and the background to purple
 turtle.color('orange')
-turtle.bg('red')
+turtle.bgcolor('darkolivegreen')
 
 # draws zigzag usng a for loop
 
 # COMPLETE FOR LOOP TO REPRODUCE ZIGZAG
+length = ?
+angle = ?
+
 for 
   turtle.
 
-input('Hit \'Enter\' to clear image')
+input('\nHit \'Enter\' to clear image')
+
