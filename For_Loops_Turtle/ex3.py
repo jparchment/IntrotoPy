@@ -5,7 +5,7 @@ import turtle
 
 # sets up turtle
 turtle.showturtle()
-turtle.shape('circle')
+turtle.shape('turtle')
 
 # try changing the pensize number 
 turtle.pensize(8)
@@ -36,4 +36,4 @@ turtle.forward(length)
 turtle.right(angle)
 turtle.forward(length)
 
-input()
+input("Press 'Enter' to clear image.")
