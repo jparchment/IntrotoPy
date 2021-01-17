@@ -23,7 +23,8 @@ for x in range(?)
 turtle.forward(100)
 turtle.right(90)
 
-# not part of the loop. Why not?
-turtle.end_fill
+# not part of the loop.
+print("Food for thought: Why doesn't this have to be part of the for loop? /U0001F914 /U0001F914 /U0001F914")
+turtle.end_fill()
 
 input('Hit /'Enter/' to clear image')
