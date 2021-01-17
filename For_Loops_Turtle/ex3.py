@@ -12,7 +12,7 @@ turtle.pensize(8)
 
 # sets the color to orange and the background to red
 turtle.color('orange')
-turle.bgcolor('red')
+turtle.bgcolor('red')
 
 # draws zigzag
 
