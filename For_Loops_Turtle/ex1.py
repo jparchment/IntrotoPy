@@ -21,3 +21,6 @@ turtle.right(90)
 
 turtle.forward(100)
 turtle.right(90)
+
+input('This program can be written using a for loop. Check out ex2.py. Press Enter.')
+
