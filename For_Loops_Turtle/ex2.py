@@ -15,6 +15,7 @@ turtle.color('green', 'purple')
 turtle.begin_fill()
 
 # draws square usng a for loop
+
 # WHAT NUMBER SHOULD BE INPUT FOR THE RANGE TO DRAW A SQUARE?
 # CORRECT ANY SYNTAX ERRORS BELOW
 
