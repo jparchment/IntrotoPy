@@ -1,1 +1,6 @@
-
+lab50:
+  window:
+  - terminal
+  - editor
+  - readme
+  - x
