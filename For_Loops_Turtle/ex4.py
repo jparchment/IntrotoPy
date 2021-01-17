@@ -16,10 +16,8 @@ turtle.bg('red')
 
 # draws zigzag usng a for loop
 
-# CREATE FOR LOOP TO REPRODUCE ZIGZAG
-
-for x in range(?):
-  turtle.forward(100)
-  turtle.right(90)
+# COMPLETE FOR LOOP TO REPRODUCE ZIGZAG
+for 
+  turtle.
 
 input('Hit \'Enter\' to clear image')
