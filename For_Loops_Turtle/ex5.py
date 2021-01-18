@@ -1,4 +1,4 @@
-# Draws a spiral pattern using a for loop
+# Draws a spiral pattern
 
 # imports turtle module
 import turtle
