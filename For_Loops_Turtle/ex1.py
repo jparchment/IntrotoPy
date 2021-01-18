@@ -28,5 +28,5 @@ turtle.forward(100)
 turtle.right(90)
 
 turtle.end_fill()
-input('This program can be written using a for loop. Check out ex2.py. Press Enter.')
 
+input('Press \'Enter\' to clear image.')
