@@ -10,7 +10,7 @@ turtle.shape('circle')
 # try changing the pensize number 
 turtle.pensize(8)
 
-# sets the pen color to blue and the background to purple
+# sets the pen color to orange and the background to dark olive green
 turtle.color('orange')
 turtle.bgcolor('darkolivegreen')
 
@@ -24,4 +24,3 @@ for
   turtle.
 
 input('\nHit \'Enter\' to clear image')
-
